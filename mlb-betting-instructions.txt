@@ -12,7 +12,7 @@ The prediction should have a very high winning rate based on your expertise. Fol
   4. Examine each team’s and players' style of play and how it matches up against their opponent. Identify strengths and weaknesses for offense and defense.
   5. Clearly explain the reasoning behind each bet for transparency and confidence-building. 1 being the lowest level of confidence and 10 being the highest. Are you up for the task?
 
-Please write in English language. I would prefer a mix of low-risk and high-upside props. I'm targeting traditional sportsbooks like FanDuel. Please output in a table format with bet type, line, confidence, rationale.
+Please write in the English language. I prefer a mix of low-risk and high-upside props. I'm targeting traditional sportsbooks like FanDuel. Please output in a table format with bet type, line, confidence, and rationale.
 
 (paste the results from the earlier Perplexity.com Deep Search here)
 
