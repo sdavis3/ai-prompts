@@ -24,7 +24,7 @@ Source: https://imaginewithrashid.com/how-to-create-stunning-flat-illustrations-
 ### Prompt: A minimalist flat illustration of a trumpet outlined in black on a gray background.
 
 ## Prompt 8
-### Prompt: A low detail flat illustration of a mountain landscale in earth tones.
+### Prompt: A low detail flat illustration of a mountain landscape in earth tones.
 
 ## Prompt 9
 ### Prompt: A simple purple hot air balloon in a flat cartoon style floating on a soft blue sky background.
